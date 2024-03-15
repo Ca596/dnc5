@@ -1,2 +1,11 @@
-# dnc5
-esse é um projeto de integração do front-end com a api 
+# criacao-rotas-frontend
+
+Para instalar as dependencias digite no terminal
+```
+npm install
+```
+
+Para executar o projeto digite no terminal
+```
+npm start
+```
